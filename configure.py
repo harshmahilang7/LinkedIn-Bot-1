@@ -1,8 +1,8 @@
 # Configurable Constants
-from credentials import *
+# from credentials import *
 
-CONFIGURED_EMAIL = email
-CONFIGURED_PASSWORD = password
+CONFIGURED_EMAIL = "harshmahilang4@gmail.com"
+CONFIGURED_PASSWORD = "_sTiL?>;CK/EQ5\""
 
 """    ENVIRONMENT SETTINGS    """
 BROWSER = "Chrome"  # Options are CHROME or FIREFOX
